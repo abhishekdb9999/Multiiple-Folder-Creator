@@ -1,6 +1,6 @@
 import os
 
-folder = []
+folder = [] #for storing folders
 n = int(input("How many folders do you want???"))
 
 for folnames in range(n):
